@@ -132,4 +132,4 @@ dmypy.json
 .vscode/
 
 # Secret stuff
-firebase/firebase-config.yaml
+firebase-config.yaml
