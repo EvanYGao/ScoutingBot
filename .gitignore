@@ -133,3 +133,4 @@ dmypy.json
 
 # Secret stuff
 firebase-config.yaml
+slackbot-config.yaml
