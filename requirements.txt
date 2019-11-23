@@ -1,0 +1,5 @@
+pyrebase
+slackclient
+slack
+pyyaml
+.
