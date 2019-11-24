@@ -36,8 +36,8 @@ firebase-config.yaml:
 slackbot-config.yaml:
 
 ```yaml
-'oauth_token': 'xoxp-16664820659-696781854487-848669167350-53c3f7d83664a50c54d9519a46a69761'
-'bot_user_token': 'xoxb-16664820659-846471897765-ZFTBlvpymOWdE8uHxxPrurfz'
+'oauth_token': '-'
+'bot_user_token': '-'
 ```
 
 Run the start script again.
