@@ -11,7 +11,7 @@ with open('slackbot-config.yaml', 'r') as stream:
 client = RTMClient(token = bot_token)
 
 @RTMClient.run_on(event = 'message')
-def parse_commands(**payload):
+def parse_commands(**payload: dict):
   data = payload['data']
   # This lets the bot ignore its own messages
   try:
